@@ -1,0 +1,24 @@
+{
+  "name": "ghibli-movies",
+  "version": "1.0.0",
+  "description": "A node.js application that writes a list of Studio Ghibli movies to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/ghibli-movies.git"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/ghibli-movies/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/ghibli-movies#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "request": "^2.88.2"
+  }
+}
